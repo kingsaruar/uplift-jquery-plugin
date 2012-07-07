@@ -1,5 +1,5 @@
 /*
-This plugin can't be used in Non-Islamic activities.
+This plugin can't be used in Non-Islamic activities. 
 
 Author: Muhammad Usman, Sylhet, Bangladesh
 
